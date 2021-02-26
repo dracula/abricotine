@@ -1,10 +1,10 @@
-### [X](http://link-to-x.com)
+### [Abricotine](https://abricotine.brrd.fr/)
 
 #### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone https://github.com/dracula/template.git
+    $ git clone https://github.com/dracula/abricotine.git
 
 #### Install manually
 
@@ -12,6 +12,6 @@ Download using the [GitHub .zip download](https://github.com/dracula/template/ar
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Move the `dracula` folder to `~/.config/Abricotine/app/themes`
+2. Select the `Dracula` theme in the drop down menu under View > Theme
+3. Boom! It's working!

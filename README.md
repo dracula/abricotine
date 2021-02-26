@@ -1,20 +1,20 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Abricotine](https://abricotine.brrd.fr/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Abricotine](https://abricotine.brrd.fr/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/abricotine](https://draculatheme.com/abricotine).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Calder Sheagren](https://github.com/calderds.png?size=100)](https://github.com/calderds) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Calder Sheagren](https://github.com/calderds) |
 
 ## License
 
